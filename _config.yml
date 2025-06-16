@@ -2,3 +2,16 @@ theme: minima
 title: yatri-patel000's personal blog
 description: This is where I share cool stuff about my life
 author: yatri-patel000
+
+## Introduction
+
+This is the introduction to my first blog post.
+
+### A Subheading
+
+Here are some key points:
+*   Point 1
+*   Point 2
+
+```python
+print("Hello, world!")
